@@ -20,12 +20,13 @@ Ativo na publicação online de análise dos dados, utilizando técnicas de Data
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os projetos publicados por mim:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
+## Python Developer:
+* **Carmen Santiego:** https://github.com/Willslva/Carmen_Sandiego
+* **Jogo da Forca:** https://github.com/Willslva/Jogo-da-Forca
+* **Sistema de Votação:** https://github.com/Willslva/Sistema_de_votacao
+* **Museu do Cidadão:** https://github.com/Willslva/Museu-do-Cidadao
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
