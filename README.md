@@ -23,13 +23,13 @@ Ativo na publicação online de análise dos dados, utilizando técnicas de Data
 Veja os projetos publicados por mim:
 
 ## Python Developer:
-* **Jogo de Carmen Santiego:** https://github.com/Willslva/Carmen_Sandiego
-* **Jogo da Forca:** https://github.com/Willslva/Jogo-da-Forca
-* **Sistema de Votação:** https://github.com/Willslva/Sistema_de_votacao
-* **Museu do Cidadão:** https://github.com/Willslva/Museu-do-Cidadao
-* **Sistema de Carona:** https://github.com/Willslva/Sistema-de-Carona
-* **Segurança de Informação:** https://github.com/Willslva/Seguranca
-* **Reposição de Aulas (projeto cooperativo):** https://github.com/Carlosdher/reposicao
+* **Jogo de Carmen Santiego:** https://bit.ly/39DrlCw
+* **Jogo da Forca:** https://bit.ly/2XPhZRu
+* **Sistema de Votação:** https://bit.ly/3lYg9Gf
+* **Museu do Cidadão:** https://bit.ly/3CHBieD
+* **Sistema de Carona:** https://bit.ly/3F1onpU
+* **Segurança de Informação:** https://bit.ly/3zGRn27
+* **Reposição de Aulas (projeto cooperativo):** https://bit.ly/3CJ686y
 
 ## Dashboards (Power BI):
 * **Dashboard de Vendas:** https://github.com/Willslva/Carmen_Sandiego
