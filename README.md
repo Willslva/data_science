@@ -32,4 +32,4 @@ Veja os projetos publicados por mim:
 * **Reposição de Aulas (projeto cooperativo):** https://bit.ly/3CJ686y
 
 ## Dashboards (Power BI):
-* **Dashboard de Vendas:** https://github.com/Willslva/Carmen_Sandiego
+* **Dashboard de Vendas:** https://bit.ly/3EQPovT
