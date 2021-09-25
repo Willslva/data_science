@@ -29,4 +29,5 @@ Veja os projetos publicados por mim:
 * **Museu do Cidadão:** https://github.com/Willslva/Museu-do-Cidadao
 * **Sistema de Carona:** https://github.com/Willslva/Sistema-de-Carona
 * **Segurança de Informação:** https://github.com/Willslva/Seguranca
+* **Reposição de Aulas (projeto cooperativo):** https://github.com/Carlosdher/reposicao
 
