@@ -27,7 +27,6 @@ Veja os projetos publicados por mim:
 * **Jogo da Forca:** https://github.com/Willslva/Jogo-da-Forca
 * **Sistema de Votação:** https://github.com/Willslva/Sistema_de_votacao
 * **Museu do Cidadão:** https://github.com/Willslva/Museu-do-Cidadao
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Sistema de Carona:** https://github.com/Willslva/Sistema-de-Carona
+* **Segurança de Informação:** https://github.com/Willslva/Seguranca
 
