@@ -1,17 +1,17 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/william-silva-a4489621a/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="banner.jpg" >
 </p>
 
 # William Silva
-<sub>*Analista de Dados* Center</sub>
+<sub>*Analista de Dados*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Atuante na área de análise de dados, com sólida experiência em Power BI, SQL e Python. Construo painéis e relatórios analíticos poderosos, seguindo as melhores práticas de trabalho desde a identificação do problema, preparação, modelagem e visualização dos dados.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Ativo na publicação online de análise dos dados, utilizando técnicas de Data Storytelling em busca da melhor solução para os clientes, conseguindo auxiliar a tomada de decisão através de boas histórias de análise de dados!
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Power BI, SQL.
 
 **Links:**
 * [Medium](https://medium.com/@willslva)
