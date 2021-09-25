@@ -23,7 +23,7 @@ Ativo na publicação online de análise dos dados, utilizando técnicas de Data
 Veja os projetos publicados por mim:
 
 ## Python Developer:
-* **Carmen Santiego:** https://github.com/Willslva/Carmen_Sandiego
+* **Jogo de Carmen Santiego:** https://github.com/Willslva/Carmen_Sandiego
 * **Jogo da Forca:** https://github.com/Willslva/Jogo-da-Forca
 * **Sistema de Votação:** https://github.com/Willslva/Sistema_de_votacao
 * **Museu do Cidadão:** https://github.com/Willslva/Museu-do-Cidadao
