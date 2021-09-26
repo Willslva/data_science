@@ -7,9 +7,7 @@
 # William Silva
 <sub>*Analista de Dados*</sub>
 
-Atuante na área de análise de dados, com sólida experiência em Power BI, SQL e Python. Construo painéis e relatórios analíticos poderosos, seguindo as melhores práticas de trabalho desde a identificação do problema, preparação, modelagem e visualização dos dados.
-
-Ativo na publicação online de análise dos dados, utilizando técnicas de Data Storytelling em busca da melhor solução para os clientes, conseguindo auxiliar a tomada de decisão através de boas histórias de análise de dados!
+ 
 
 **Background in:** Python, Power BI, SQL.
 
