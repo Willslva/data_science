@@ -37,8 +37,10 @@ Veja os projetos publicados por mim:
 * **Segurança de Informação:** https://bit.ly/3zGRn27
 * **Reposição de Aulas (projeto cooperativo):** https://bit.ly/3CJ686y
 
+## Python Data Science:
+* **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
+
 ## Dashboards (Power BI):
 * **Dashboard de Vendas:** https://bit.ly/3EQPovT
 
-## Python in Data Science:
-* **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
+
