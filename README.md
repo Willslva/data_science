@@ -41,6 +41,6 @@ Veja os projetos publicados por mim:
 * **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
 
 ## Dashboards (Power BI):
-* **Dashboard de Vendas:** https://bit.ly/3EQPovT
+* **Dashboard de Vendas:** https://bit.ly/3uUpl2r
 
 
