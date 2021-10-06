@@ -39,3 +39,6 @@ Veja os projetos publicados por mim:
 
 ## Dashboards (Power BI):
 * **Dashboard de Vendas:** https://bit.ly/3EQPovT
+
+## Python in Data Science:
+* **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
