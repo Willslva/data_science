@@ -35,7 +35,7 @@ Veja os projetos publicados por mim:
 * **Museu do Cidadão:** https://bit.ly/3CHBieD
 * **Sistema de Carona:** https://bit.ly/3F1onpU
 * **Segurança de Informação:** https://bit.ly/3zGRn27
-* **Reposição de Aulas (projeto cooperativo):** https://bit.ly/3CJ686y
+* **Sistema de Reposição de Aulas (projeto cooperativo):** https://bit.ly/3CJ686y
 
 ## Python Data Science:
 * **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
