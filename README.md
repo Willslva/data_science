@@ -54,6 +54,8 @@ Veja os projetos publicados por mim:
 
 ## Python Data Science:
 * **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
+<p align="justify"> Neste projeto é apresentado análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usaremos dados reais disponíveis publicamente, dados sobre filmes no IMDB. O IMDB recebe dados reais de avaliações alimentados pelos usuários, armazena esse volume de informação e no fim disponibiliza em DataSet. A justificativa de realizar determinada análise exploratório no IMDB é porque a mesma possui dados reais de alto valor que podem ser usados em uma empresa que queira oferecer algum tipo de serviço de stream, ou oferecer filmes para seus colaboradores
+</p>
 
 ## Dashboards (Power BI):
 * **Dashboard de Vendas:** https://bit.ly/3uUpl2r 
