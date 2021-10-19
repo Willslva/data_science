@@ -49,8 +49,11 @@ Veja os projetos publicados por mim:
 <p align="justify"> O Sistema de Carona foi construido com a finalidade de torna-se um app que serve para oferecer e conseguir caronas pelo celular. Sendo uma ferramenta que  permite configurar as suas rotas diárias ou viagens programadas para dividir as despesas com outras pessoas. Dessa forma, o serviço pode ser mais acessível do que outros aplicativos de transporte, como o Uber. Motoristas e passageiros devem confirmar o telefone, vincular perfis em redes sociais e enviar documentos – o que promete dar mais segurança aos usuários. Todas as pessoas recebem uma pontuação que varia de 0 a 5 estrelas.
 </p>  
 
-* **Segurança de Informação:** https://bit.ly/3zGRn27
 * **Sistema de Reposição de Aulas (projeto cooperativo):** https://bit.ly/3CJ686y
+<p align="justify"> Este projeto foi utilizado o framework Django para desenolver uma aplicação web de reposição de aula para o Instituto Federal de Educação, Ciência e Tecnologia - Campus Cajazeiras. A aplicação web substituiu o antigo procedimento de pedido de reposição de aula, oferecendo agilidade no processo de solicitação de reposição de aula e diminuindo drasticamente o desperdício de papel. No decorrer do trabalho foram diversas atividades: a) elaboração do modelo de banco de dados; b) solicitação de reposição de aulas; c) alerta de solicitação; d)aceitação de solicitação; e) visualização do perfil do usuário; f) alteração do cadastro do cliente e troca de aula. Todas as informações coletadas pela aplicação web ficou armazenada no banco de dados DB Designer
+</p>
+
+* **Segurança de Informação:** https://bit.ly/3zGRn27
 
 ## Python Data Science:
 * **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
