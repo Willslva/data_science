@@ -38,7 +38,7 @@ Veja os projetos publicados por mim:
 </p>
 
 * **Sistema de Votação:** https://bit.ly/3lYg9Gf
-<p align="justify"> O sistema de votação por meio de escolha entre um certo número de opções, baseado na entrada de um certo número de votos. A votação é, talvez, mais conhecida pelo seu uso em eleições, onde candidatos políticos são selecionados para a administração pública. 
+<p align="justify"> O sistema de votação funciona por meio de escolha entre um certo número de opções, baseado na entrada de um certo número de votos. A votação é, talvez, mais conhecida pelo seu uso em eleições, onde candidatos políticos são selecionados para a administração pública. 
 </p>
 
 * **Museu do Cidadão:** https://bit.ly/3CHBieD
