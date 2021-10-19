@@ -33,10 +33,22 @@ Veja os projetos publicados por mim:
 <p align="justify"> O jogo clássico “Onde está Carmen Sandiego” traz a  proposta educativa de ensinar geografia e História de maneira mais dinâmica e divertida a jovens em idade escolar. A jogabilidade é simples. O usuário deve ler depoimentos de pessoas que avistaram a personagem pelo mundo para obter dicas e descobrir o paradeiro da ladra. Enquanto navega pelo mundo, o usuário pode aprender os detalhes das cidades mostradas no mapa 3D, incluindo história e principais pontos turísticos.
 </p>
 
-* **Jogo da Forca:** https://bit.ly/2XPhZRu
+* **Forca:** https://bit.ly/2XPhZRu
+<p align="justify"> O jogo da forca é um jogo em que o jogador tem que acertar qual é a palavra proposta, tendo como dica o número de letras e o tema ligado à palavra. A cada letra errada, é desenhado uma parte do corpo do enforcado. O jogo termina ou com o acerto da palavra ou com o término do preenchimento das partes corpóreas do enforcado.
+</p>
+
 * **Sistema de Votação:** https://bit.ly/3lYg9Gf
+<p align="justify"> O sistema de votação por meio de escolha entre um certo número de opções, baseado na entrada de um certo número de votos. A votação é, talvez, mais conhecida pelo seu uso em eleições, onde candidatos políticos são selecionados para a administração pública. 
+</p>
+
 * **Museu do Cidadão:** https://bit.ly/3CHBieD
+<p align="justify"> O Museu do cidadão trata-se de um ambiente a serviço da sociedade e do seu desenvolvimento, aberta ao público para educação e deleite da sociedade em obter conhecimento a respeito da história de determinada cidade. A proposta desse museu virtual é ser alimentado continuamente por registros de memória de diversões locais que são sugeridos pelos próprios internautas. 
+</p>
+
 * **Sistema de Carona:** https://bit.ly/3F1onpU
+<p align="justify"> O Sistema de Carona foi construido com a finalidade de torna-se um app que serve para oferecer e conseguir caronas pelo celular. Sendo uma ferramenta que  permite configurar as suas rotas diárias ou viagens programadas para dividir as despesas com outras pessoas. Dessa forma, o serviço pode ser mais acessível do que outros aplicativos de transporte, como o Uber. Motoristas e passageiros devem confirmar o telefone, vincular perfis em redes sociais e enviar documentos – o que promete dar mais segurança aos usuários. Todas as pessoas recebem uma pontuação que varia de 0 a 5 estrelas.
+</p>  
+
 * **Segurança de Informação:** https://bit.ly/3zGRn27
 * **Sistema de Reposição de Aulas (projeto cooperativo):** https://bit.ly/3CJ686y
 
