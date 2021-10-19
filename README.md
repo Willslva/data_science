@@ -29,7 +29,10 @@ Adaptabilidade em trabalho em equipe e relacionamento interpessoal.
 Veja os projetos publicados por mim:
 
 ## Python Developer:
-* **Jogo de Carmen Santiego:** https://bit.ly/39DrlCw
+* **Carmen Santiego:** https://bit.ly/39DrlCw
+<p align="justify"> O jogo clássico “Onde está Carmen Sandiego” traz a  proposta educativa de ensinar geografia e História de maneira mais dinâmica e divertida a jovens em idade escolar. A jogabilidade é simples. O usuário deve ler depoimentos de pessoas que avistaram a personagem pelo mundo para obter dicas e descobrir o paradeiro da ladra. Enquanto navega pelo mundo, o usuário pode aprender os detalhes das cidades mostradas no mapa 3D, incluindo história e principais pontos turísticos.
+</p>
+
 * **Jogo da Forca:** https://bit.ly/2XPhZRu
 * **Sistema de Votação:** https://bit.ly/3lYg9Gf
 * **Museu do Cidadão:** https://bit.ly/3CHBieD
