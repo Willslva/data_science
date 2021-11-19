@@ -53,8 +53,6 @@ Veja os projetos publicados por mim:
 <p align="justify"> Este projeto foi utilizado o framework Django para desenolver uma aplicação web de reposição de aula para o Instituto Federal de Educação, Ciência e Tecnologia - Campus Cajazeiras. A aplicação web substituiu o antigo procedimento de pedido de reposição de aula, oferecendo agilidade no processo de solicitação de reposição de aula e diminuindo drasticamente o desperdício de papel. No decorrer do trabalho foram diversas atividades: a) elaboração do modelo de banco de dados; b) solicitação de reposição de aulas; c) alerta de solicitação; d)aceitação de solicitação; e) visualização do perfil do usuário; f) alteração do cadastro do cliente e troca de aula. Todas as informações coletadas pela aplicação web ficou armazenada no banco de dados DB Designer
 </p>
 
-* **Segurança de Informação:** https://bit.ly/3zGRn27
-
 ## Python Data Science:
 * **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
 <p align="justify"> Neste projeto é apresentado análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usaremos dados reais disponíveis publicamente, dados sobre filmes no IMDB. O IMDB recebe dados reais de avaliações alimentados pelos usuários, armazena esse volume de informação e no fim disponibiliza em DataSet. A justificativa de realizar determinada análise exploratório no IMDB é porque a mesma possui dados reais de alto valor que podem ser usados em uma empresa que queira oferecer algum tipo de serviço de stream, ou oferecer filmes para seus colaboradores
