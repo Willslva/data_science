@@ -22,7 +22,7 @@ Adaptabilidade em trabalho em equipe e relacionamento interpessoal.
 **Links:**
 * [Medium](https://medium.com/@willslva)
 * [LinkedIn](https://www.linkedin.com/in/william-silva-a4489621a/)
-
+* [Blog](https://chuvadedados.wixsite.com/my-site)
 
 
 ## Projetos:
