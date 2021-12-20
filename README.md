@@ -55,7 +55,7 @@ Veja os projetos publicados por mim:
 
 ## Python Data Science:
 * **Análise dos Dados do Airbnb - Hong Kong:** https://bit.ly/3snRyQa
-<p align="justify"> Neste projeto é analisado os dados referentes à cidade Hong Kong, apresentando informações para viajar para Hong Kong à respeito das localidades que se encaixam no orçamento da viagem, com intuito de decidir qual tipo de imóvel reservar e por quantos dias vai durar a reserva da hospedagem e os custos que essa estadia resultará. Sendo fruto de insights que foram extraídos a partir de dados brutos que são disponibilizados no portal Inside Airbnb.
+<p align="justify"> É analisado dados referentes à cidade Hong Kong, apresentando informações para viajar da melhor maneira possível para Hong Kong, sendo insights  à respeito das localidades que se encaixam no orçamento da viagem, com intuito de decidir qual tipo de imóvel reservar e por quantos dias vai durar a reserva da hospedagem e os custos que essa estadia resultará. Sendo fruto do trabalho de extração e limpeza de dados brutos que são disponibilizados no portal Inside Airbnb.
 </p>
 
 ## Dashboards (Power BI):
