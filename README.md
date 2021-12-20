@@ -54,8 +54,8 @@ Veja os projetos publicados por mim:
 </p>
 
 ## Python Data Science:
-* **Análise Exploratória do IMDB:** https://bit.ly/3uL2g2e
-<p align="justify"> Neste projeto é apresentado análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usaremos dados reais disponíveis publicamente, dados sobre filmes no IMDB. O IMDB recebe dados reais de avaliações alimentados pelos usuários, armazena esse volume de informação e no fim disponibiliza em DataSet. A justificativa de realizar determinada análise exploratório no IMDB é porque a mesma possui dados reais de alto valor que podem ser usados em uma empresa que queira oferecer algum tipo de serviço de stream, ou oferecer filmes para seus colaboradores
+* **Análise dos Dados do Airbnb - Hong Kong:** https://bit.ly/3snRyQa
+<p align="justify"> Neste projeto é analisado os dados referentes à cidade Hong Kong, apresentando informações para viajar para Hong Kong à respeito das localidades que se encaixam no orçamento da viagem, com intuito de decidir qual tipo de imóvel reservar e por quantos dias vai durar a reserva da hospedagem e os custos que essa estadia resultará. Sendo fruto de insights que foram extraídos a partir de dados brutos que são disponibilizados no portal Inside Airbnb.
 </p>
 
 ## Dashboards (Power BI):
