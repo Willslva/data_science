@@ -13,7 +13,7 @@ Como um cientista de dados experiente, tendo passado os últimos anos aplicando 
 
 Minhas credenciais incluem graduação em andamento em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática no Instituto Federal de educação, ciência e tecnologia da paraíba (IFPB - Campus Cajazeiras).
 
-Experiência em: Python, Aprendizado de Máquina, Banco de Dados (SQL) e Power BI
+Experiência em: Python, Aprendizado de Máquina, SQL e Power BI
 
 
 **Links:**
