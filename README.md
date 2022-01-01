@@ -7,23 +7,14 @@
 # William Silva
 <sub>*Analista de Dados*</sub>
 
+Esse é portfólio de projetos do mundo real que são solucionados mediante a combinação de habilidades analíticas com atenção aos detalhes.
 
-Este portfólio apresenta Como um cientista de dados experiente e piloto da Força Aérea, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina a problemas reais da Força Aérea Brasileira, desenvolvi um pensamento crítico e habilida
+Como um cientista de dados experiente, tendo passado os últimos anos aplicando o Aprendizado de Máquina, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
 
-Minhas credenciais incluem um mestrado em Ciência e Tecnologia Espacial pelo Instituto de Tecnologia da Aeronáutica (ITA), uma instituição de ensino superior e pesquisa avançada classificada como uma das melhores e mais prestigiadas escolas de engenharia do Brasil, e um MBA em Gerenciamento de Projetos e Processos da Universidade da Força Aérea (UNIFA).
+Minhas credenciais incluem graduação em andamento em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática no Instituto Federal de educação, ciência e tecnologia da paraíba (IFPB - Campus Cajazeiras).
 
-Experiência em: Python, Aprendizado de Máquina, Operações Espaciais e Otimização Matemática.
-Conhecimento em ferramentas de visualização e modelagem de dados: Excel e Power BI
+Experiência em: Python, Aprendizado de Máquina, Banco de Dados (SQL) e Power BI
 
-Experiência em linguagens de programação SQL e Python.
-
-Capaz de responder perguntas de negócio por meio da construo dashboard e documentos analíticos que seguem o seguinte fluxo de trabalho: identificação do problema, extração de dados, preparação, modelagem e visualização da informação.
-
-Comunico por meio de Storytelling as descobertas adquirida pela análise de dados de determinado contexto, assim sendo, apresentando uma sofisticada história da análise de dados para tomadores de decisão.
-
-Adaptabilidade em trabalho em equipe e relacionamento interpessoal. 
-
-**Background in:** Python, Power BI, SQL.
 
 **Links:**
 * [Medium](https://medium.com/@willslva)
