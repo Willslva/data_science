@@ -7,6 +7,12 @@
 # William Silva
 <sub>*Analista de Dados*</sub>
 
+
+Este portfólio apresenta Como um cientista de dados experiente e piloto da Força Aérea, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina a problemas reais da Força Aérea Brasileira, desenvolvi um pensamento crítico e habilida
+
+Minhas credenciais incluem um mestrado em Ciência e Tecnologia Espacial pelo Instituto de Tecnologia da Aeronáutica (ITA), uma instituição de ensino superior e pesquisa avançada classificada como uma das melhores e mais prestigiadas escolas de engenharia do Brasil, e um MBA em Gerenciamento de Projetos e Processos da Universidade da Força Aérea (UNIFA).
+
+Experiência em: Python, Aprendizado de Máquina, Operações Espaciais e Otimização Matemática.
 Conhecimento em ferramentas de visualização e modelagem de dados: Excel e Power BI
 
 Experiência em linguagens de programação SQL e Python.
