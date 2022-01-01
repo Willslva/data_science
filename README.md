@@ -7,7 +7,7 @@
 # William Silva
 <sub>*Analista de Dados*</sub>
 
-Esse é portfólio de projetos do mundo real que são solucionados mediante a combinação de habilidades analíticas com atenção aos detalhes.
+Esse é portfólio de problemas do mundo real que são solucionados mediante a combinação de habilidades analíticas com atenção aos detalhes.
 
 Como um cientista de dados experiente, tendo passado os últimos anos aplicando o Aprendizado de Máquina, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
 
