@@ -11,7 +11,7 @@ Esse é portfólio de problemas do mundo real que são solucionados mediante a c
 
 Como um cientista de dados experiente, tendo passado os últimos anos aplicando o Aprendizado de Máquina, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
 
-Minhas credenciais incluem graduação em andamento em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática no Instituto Federal de educação, ciência e tecnologia da paraíba (IFPB - Campus Cajazeiras).
+Minhas credenciais incluem graduação em andamento em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB - Campus Cajazeiras).
 
 Experiência em: Python, Aprendizado de Máquina, SQL e Power BI
 
