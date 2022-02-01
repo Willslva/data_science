@@ -31,7 +31,5 @@ Veja os projetos publicados por mim:
 
 ## Dashboards (Power BI):
 * **Dashboard de Vendas:** https://bit.ly/3uUpl2r 
-<p align="justify">  Uma revendedora de automóveis de luxo com sede em São Paulo. A empresa começou sua operação no Brasil em 2016 e atua nos quatro estados da região sudeste, mais os estados do Paraná e Bahia. O analista de dados deve construir um Dashboard que represente os dados de vendas no período de 2016 a 2019. Seu gerente precisa das seguintes informações:Total de Vendas por Ano; Custo de Entrega do Veículo Por Fabricante; Custo de Mão de Obra Por Estado; Total de Vendas Geral e Matriz de Vendas. Além disso, o CEO da empresa deve visualizar o total de vendas por estado e  se  as  vendas  estão  acima  ou  abaixo  da média. 
-</p>
 <p align="justify"> Neste estudo de caso é utilizado dados no período de 2016 a 2019 para facilitar o entendimento do CEO da empresa a respeito da venda de carros. Basicamente será trabalhado nesse contexto análise descritiva, assim sendo, o Power BI se encaixa perfeitamente para o problema de negócio. Todavia, se o CEO tivesse pedido para prever o volume de vendas de carros para o próximo ano então a abordagem da resolução do problema seria voltada para Data Science, especificamente com análise preditiva.
 </p>
