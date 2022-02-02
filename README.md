@@ -7,13 +7,13 @@
 # William Silva
 <sub>*Analista de Dados*</sub>
 
-Esse é portfólio de problemas do mundo real que são solucionados mediante a combinação de habilidades analíticas com atenção aos detalhes.
+This is a portfolio of real-world problems that are solved by combining analytical skills with attention to detail.
 
-Como um cientista de dados experiente, tendo passado os últimos anos aplicando o Aprendizado de Máquina, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
+As an experienced data scientist, having spent the last few years applying Machine Learning, I have developed critical thinking and problem-solving skills.
 
-Minhas credenciais incluem graduação em andamento em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB - Campus Cajazeiras).
+My credentials include an ongoing degree in Information Management from the Federal University of Pernambuco (UFPE), and a Computer Technician at the Federal Institute of Education, Science and Technology of Paraíba (IFPB - Campus Cajazeiras).
 
-Experiência em: Python, Aprendizado de Máquina, SQL e Power BI
+Experience in: Python, Machine Learning, SQL and Power BI
 
 
 **Links:**
