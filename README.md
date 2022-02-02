@@ -5,7 +5,7 @@
 </p>
 
 # William Silva
-<sub>*Analista de Dados*</sub>
+<sub>*Data Engineer*</sub>
 
 This is a portfolio of real-world problems that are solved by combining analytical skills with attention to detail.
 
@@ -21,15 +21,15 @@ Experience in: Python, Machine Learning, SQL and Power BI
 * [Blog](https://chuvadedados.wixsite.com/my-site)
 
 
-## Projetos:
-Veja os projetos publicados por mim:
+## Projects:
+See projects published by me:
 
 ## Python Data Science:
-* **Análise dos Dados do Airbnb - Hong Kong:** https://bit.ly/3snRyQa
-<p align="justify"> É analisado dados referentes à cidade Hong Kong, apresentando informações para viajar da melhor maneira possível para Hong Kong, sendo insights  à respeito das localidades que se encaixam no orçamento da viagem, com intuito de decidir qual tipo de imóvel reservar e por quantos dias vai durar a reserva da hospedagem e os custos que essa estadia resultará. Sendo fruto do trabalho de extração e limpeza de dados brutos que são disponibilizados no portal Inside Airbnb.
+* **Airbnb Data Analysis - Hong Kong:** https://bit.ly/3snRyQa
+<p align="justify"> Data related to the city of Hong Kong is analyzed, presenting information to travel in the best possible way to Hong Kong, with insights about the locations that fit the travel budget, in order to decide which type of property to book and for how many days it will last. the reservation of the accommodation and the costs that this stay will result. Being the result of the work of extracting and cleaning raw data that are made available on the Inside Airbnb portal.
 </p>
 
 ## Dashboards (Power BI):
-* **Dashboard de Vendas:** https://bit.ly/3uUpl2r 
-<p align="justify"> Neste estudo de caso é utilizado dados no período de 2016 a 2019 para facilitar o entendimento do CEO da empresa a respeito da venda de carros. Basicamente será trabalhado nesse contexto análise descritiva, assim sendo, o Power BI se encaixa perfeitamente para o problema de negócio. Todavia, se o CEO tivesse pedido para prever o volume de vendas de carros para o próximo ano então a abordagem da resolução do problema seria voltada para Data Science, especificamente com análise preditiva.
+* **Sales Dashboard:** https://bit.ly/3uUpl2r 
+<p align="justify"> In this case study, data from 2016 to 2019 is used to facilitate the understanding of the company's CEO regarding the sale of cars. Basically, descriptive analysis will be worked in this context, therefore, Power BI fits perfectly for the business problem. However, if the CEO had asked to forecast the volume of car sales for the next year then the approach to solving the problem would be data science, specifically with predictive analytics.
 </p>
