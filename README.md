@@ -11,11 +11,8 @@ Este é um portfólio de problemas do mundo real que são resolvidos combinando 
 
 Minhas credenciais incluem graduação em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB - Campus Cajazeiras).
 
-Atento aos detalhes, gosto de trabalhar com números e dados, formular problemas e encontrar soluções.
-Curioso e inventivo para resolver problemas complexos.
+Atento aos detalhes, gosto de trabalhar com números e dados, formular problemas e encontrar soluções para resolver problemas complexos.
 
-Limpo, transformo, organizo e visualizo, transmitindo insights obtidos pela análise aos tomadores de decisão de forma sofisticada por meio do Storytelling.
-Interpreto dados usando ferramentas e métodos estatísticos e de aprendizado de máquina.
 
 **Hard Skills:**
 
