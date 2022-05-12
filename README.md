@@ -9,11 +9,24 @@
 
 This is a portfolio of real-world problems that are solved by combining analytical skills with attention to detail.
 
-As an experienced data scientist, having spent the last few years applying Machine Learning, I have developed critical thinking and problem-solving skills.
-
 My credentials include an ongoing degree in Information Management from the Federal University of Pernambuco (UFPE), and a Computer Technician at the Federal Institute of Education, Science and Technology of Paraíba (IFPB - Campus Cajazeiras).
 
-Experience in: Python, Machine Learning, SQL and Power BI
+Attentive to details, I enjoy working with numbers and data, formulating problems and finding solutions.
+Curious and inventive to solve complex problems.
+
+I clean, transform, organize and visualize them, communicating insights obtained by the analysis to decision makers in a sophisticated way through Storytelling.
+I interpret data using statistical and machine learning tools and methods.
+
+**Hard Skills:**
+
+* Experience with Web Scraping in data scraping: semi-structured and unstructured.
+* Experience in database modeling (entity identification, dimensional model design, logical and physical model creation)
+* Python proficiency (statistical, manipulation and data visualization packages);
+* SQL proficiency;
+* Knowledge of the Git version control system;
+* Experience with the Jupyter development environment;
+* Experience with Agile Processes and Projects.
+* Experience with Django framework, HTML, CSS and JavaScript.
 
 
 **Links:**
