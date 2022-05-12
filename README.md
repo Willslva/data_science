@@ -24,7 +24,6 @@ Experience in: Python, Machine Learning, SQL and Power BI
 ## Projects:
 See projects published by me:
 
-## Python Data Science:
 * **Airbnb Data Analysis - Hong Kong:** https://bit.ly/3snRyQa
 <p align="justify"> Data related to the city of Hong Kong is analyzed, presenting information to travel in the best possible way to Hong Kong, with insights about the locations that fit the travel budget, in order to decide which type of property to book and for how many days it will last. the reservation of the accommodation and the costs that this stay will result. Being the result of the work of extracting and cleaning raw data that are made available on the Inside Airbnb portal.
 </p>
