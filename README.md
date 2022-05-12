@@ -5,40 +5,39 @@
 </p>
 
 # William Silva
-<sub>*Data Engineer*</sub>
+<sub>*Cientista de Dados*</sub>
 
-This is a portfolio of real-world problems that are solved by combining analytical skills with attention to detail.
+Este é um portfólio de problemas do mundo real que são resolvidos combinando habilidades analíticas com atenção aos detalhes.
 
-My credentials include an ongoing degree in Information Management from the Federal University of Pernambuco (UFPE), and a Computer Technician at the Federal Institute of Education, Science and Technology of Paraíba (IFPB - Campus Cajazeiras).
+Minhas credenciais incluem graduação em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB - Campus Cajazeiras).
 
-Attentive to details, I enjoy working with numbers and data, formulating problems and finding solutions.
-Curious and inventive to solve complex problems.
+Atento aos detalhes, gosto de trabalhar com números e dados, formular problemas e encontrar soluções.
+Curioso e inventivo para resolver problemas complexos.
 
-I clean, transform, organize and visualize them, communicating insights obtained by the analysis to decision makers in a sophisticated way through Storytelling.
-I interpret data using statistical and machine learning tools and methods.
+Limpo, transformo, organizo e visualizo, transmitindo insights obtidos pela análise aos tomadores de decisão de forma sofisticada por meio do Storytelling.
+Interpreto dados usando ferramentas e métodos estatísticos e de aprendizado de máquina.
 
 **Hard Skills:**
 
-* Experience with Web Scraping in data scraping: semi-structured and unstructured.
-* Experience in database modeling (entity identification, dimensional model design, logical and physical model creation)
-* Python proficiency (statistical, manipulation and data visualization packages);
-* SQL proficiency;
-* Knowledge of the Git version control system;
-* Experience with the Jupyter development environment;
-* Experience with Agile Processes and Projects.
-* Experience with Django framework, HTML, CSS and JavaScript.
-
+* Experiência com Web Scraping em data scraping: semi-estruturado e não estruturado.
+* Experiência em modelagem de banco de dados (identificação de entidades, design de modelo dimensional, criação de modelo lógico e físico)
+* Proficiência em Python (pacotes de estatística, manipulação e visualização de dados);
+* Proficiência em SQL;
+* Conhecimento do sistema de controle de versão Git;
+* Experiência com o ambiente de desenvolvimento Jupyter;
+* Experiência com Processos e Projetos Ágeis.
+* Experiência com framework Django, HTML, CSS e JavaScript.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/william-silva-a4489621a/)
 * [Blog](https://chuvadedados.wixsite.com/my-site)
 
 
-## Projects:
-See projects published by me:
+## Projetos:
+Veja os projetos publicados por mim:
 
 * **Airbnb Data Analysis - Hong Kong:** https://bit.ly/3snRyQa
-<p align="justify"> Data related to the city of Hong Kong is analyzed, presenting information to travel in the best possible way to Hong Kong, with insights about the locations that fit the travel budget, in order to decide which type of property to book and for how many days it will last. the reservation of the accommodation and the costs that this stay will result. Being the result of the work of extracting and cleaning raw data that are made available on the Inside Airbnb portal.
+<p align="justify"> São analisados dados relativos à cidade de Hong Kong, apresentando informações para viajar da melhor forma possível para Hong Kong, com insights sobre os locais que cabem no orçamento da viagem, para decidir que tipo de imóvel reservar e por quantos dias vai durar. a reserva do alojamento e os custos que esta estadia resultará. Sendo fruto do trabalho de extração e limpeza dos dados brutos que são disponibilizados no portal Inside Airbnb.
 </p>
 
 
@@ -47,5 +46,5 @@ See projects published by me:
 
 
 * **Sales Dashboard:** https://bit.ly/3uUpl2r 
-<p align="justify"> In this case study, data from 2016 to 2019 is used to facilitate the understanding of the company's CEO regarding the sale of cars. Basically, descriptive analysis will be worked in this context, therefore, Power BI fits perfectly for the business problem. However, if the CEO had asked to forecast the volume of car sales for the next year then the approach to solving the problem would be data science, specifically with predictive analytics.
+<p align="justify"> Neste estudo de caso, os dados de 2016 a 2019 são utilizados para facilitar o entendimento do CEO da empresa em relação à venda de carros. Basicamente, a análise descritiva será trabalhada nesse contexto, portanto, o Power BI se encaixa perfeitamente para o problema do negócio. No entanto, se o CEO tivesse pedido para prever o volume de vendas de carros para o próximo ano, a abordagem para resolver o problema seria a ciência de dados, especificamente com análise preditiva.
 </p>
