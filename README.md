@@ -45,3 +45,4 @@ Veja os projetos publicados por mim:
 * **Sales Dashboard:** https://bit.ly/3uUpl2r 
 <p align="justify"> Neste estudo de caso, os dados de 2016 a 2019 são utilizados para facilitar o entendimento do CEO da empresa em relação à venda de carros. Basicamente, a análise descritiva será trabalhada nesse contexto, portanto, o Power BI se encaixa perfeitamente para o problema do negócio. No entanto, se o CEO tivesse pedido para prever o volume de vendas de carros para o próximo ano, a abordagem para resolver o problema seria a ciência de dados, especificamente com análise preditiva.
 </p>
+
