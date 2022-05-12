@@ -33,8 +33,6 @@ See projects published by me:
 <p align="justify"> Esse é um projeto definido como end-to-end, em que iremos passar por todas as etapas que precisam ser realizadas comumente em todo projeto que envolve a ciência dos dados, tendo a pretensão de utilizar machine learning para detectar determinada massa celular como tumor de tipo benigno ou maligno, sendo analisado o conjunto de dados de diagnóstico do Estado no centro-oeste dos EUA chamado Wisconsin.</p>
 
 
-
-## Dashboards (Power BI):
 * **Sales Dashboard:** https://bit.ly/3uUpl2r 
 <p align="justify"> In this case study, data from 2016 to 2019 is used to facilitate the understanding of the company's CEO regarding the sale of cars. Basically, descriptive analysis will be worked in this context, therefore, Power BI fits perfectly for the business problem. However, if the CEO had asked to forecast the volume of car sales for the next year then the approach to solving the problem would be data science, specifically with predictive analytics.
 </p>
