@@ -18,8 +18,8 @@ Atento aos detalhes, gosto de trabalhar com números e dados, formular problemas
 
 * Experiência com Web Scraping em data scraping: semi-estruturado e não estruturado.
 * Experiência em modelagem de banco de dados (identificação de entidades, design de modelo dimensional, criação de modelo lógico e físico)
-* Proficiência em Python (pacotes de estatística, manipulação e visualização de dados);
-* Proficiência em SQL;
+* Experiência em Python (pacotes de estatística, manipulação e visualização de dados);
+* Experiência em SQL;
 * Conhecimento do sistema de controle de versão Git;
 * Experiência com o ambiente de desenvolvimento Jupyter;
 * Experiência com Processos e Projetos Ágeis.
